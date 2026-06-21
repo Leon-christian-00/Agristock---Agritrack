@@ -19,6 +19,22 @@
 - 🔔 **ActiveMQ Integration** - Async event notifications (optional)
 - 🎨 **Modern UI** - Custom Swing theme with gradients, rounded corners, responsive layouts
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](Screenshoot/screenshot%20login%20page.png)
+
+### Main Dashboard
+![Main Dashboard](Screenshoot/Screenshot%20main%20dashboard.png)
+
+### Farmer Management Interface
+![Farmer Management](Screenshoot/farmers%20management%20interface.png)
+
+### Reports & Receipts
+| Reports | Receipt |
+|---------|---------|
+| ![Reports](Screenshoot/report.png) | ![Receipt](Screenshoot/receipt.png) |
+
 ## 🏗️ Architecture
 
 ```
